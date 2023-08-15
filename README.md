@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anto
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in Information technology and programming
 - 🌱 I’m currently learning FastAPI, SQLAlchemy, Django and other python framework
 - 📫 How to reach me telegram: @py_smith
